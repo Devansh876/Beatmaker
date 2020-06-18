@@ -10,3 +10,4 @@ Beatmaker website helps users to customize their beat from various instrumental 
 * Can create a beat by customizing sounds
 * User can mute and unmute the sounds
 * User can change the temp of the beats
+* User can play sounds according to their selected beats
