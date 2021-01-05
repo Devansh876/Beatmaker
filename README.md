@@ -1,6 +1,6 @@
 # Beatmaker
 
-https://bit.ly/devbeatmaker
+https://beat-maker-app.netlify.app/
 
 ## Project Specifications
 
